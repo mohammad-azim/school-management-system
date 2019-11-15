@@ -38,7 +38,7 @@
 					</div>
 
 					<div class="cws_lang_links">
-						<a href="{{route('setLocale','bn')}}" class="cws_lang_link" title="Persain">
+						<a href="{{route('setLocale','bn')}}" class="cws_lang_link" title="语言">
 							<i class="lang-icon flag-icon flag-icon-bd"></i>
 						</a>
 						<a href="{{route('setLocale','en')}}" class="cws_lang_link" title="English">
